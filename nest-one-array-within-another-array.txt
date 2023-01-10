@@ -1,0 +1,2 @@
+// Only change code below this line
+const myArray = [["super", 500], ["very", 200]];
